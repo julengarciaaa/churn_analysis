@@ -1,4 +1,4 @@
-# churn_analysis
+# Análisis del churn (tasa de abandono) de una empresa de telecomunicaciones
 
 Análisis de churn de clientes con ML, explorando el impacto del preprocesamiento y la explicabilidad de los resultados.
 
